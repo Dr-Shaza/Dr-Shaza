@@ -20,6 +20,7 @@ I love learning how we can use programming, data analysis, and machine learning 
 - Research: Literature search, abstract writing, data analysis & organization
 
 ## 📂 Projects:
+- **BreastSurgery-Analysis** - Analyzing clinical data related to  Breast surgeries in Assiut University hospital.
 - **Medical Data Explorer** – A simple notebook analyzing synthetic patient data (see pinned repos).
 - **Diag-ME App (Prototype)** – An early-stage idea to help students and junior doctors input symptoms and explore differential diagnoses.
 
